@@ -25,3 +25,11 @@ Assets/GravityWarden/Art/Tripo.meta
 
 # Unity 崩溃日志
 mono_crash.*.json
+
+# 本地临时文件与过程截图，不入库
+UserSettings/
+mono_crash.*
+*.log
+Evidence/
+VisualQA/
+Preview/
